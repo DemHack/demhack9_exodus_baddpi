@@ -16,11 +16,13 @@
 
 With script or telegram bot
 List of packages:
+
 - resolvconf
 - badvpn, tun2socks
 - v2ray
 
 Apply:
+
 - dnssec
 - dnsmasq list
 - At least one proxy
