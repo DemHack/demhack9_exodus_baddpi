@@ -15,6 +15,7 @@
 ### Installation ###
 
 With script or telegram bot
+
 List of packages:
 
 - resolvconf

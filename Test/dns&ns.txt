@@ -1,0 +1,26 @@
+*********@note:~$ dig instagram.com
+
+; <<>> DiG 9.16.50-Debian <<>> instagram.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 8631
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;instagram.com.			IN	A
+
+;; ANSWER SECTION:
+instagram.com.		20	IN	A	31.13.84.174
+
+;; Query time: 100 msec
+;; SERVER: 9.9.9.9#53(9.9.9.9)
+;; WHEN: Sat Sep 21 23:40:08 MSK 2024
+;; MSG SIZE  rcvd: 58
+
+*********@note:~$ nslookup 31.13.84.174
+174.84.13.31.in-addr.arpa	name = instagram-p42-shv-01-vie1.fbcdn.net.
+
+Authoritative answers can be found from:
+
