@@ -1,29 +1,34 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+## Advanced routing
 
-### What is this repository for? ###
+* AntiDPI
+* MergeNamespaces
+* Trust
+Routes
+Testing proxies
+* Allows classic VPNs to continue working
+* Fast Virtualization
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+### Installation ###
 
-### How do I get set up? ###
+With script or telegram bot
+List of packages:
+resolvconf
+badvpn, tun2socks
+v2ray
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+Apply:
+dnssec
+dnsmasq list
+At least one proxy
+Routes
+Cron jobs
 
-### Contribution guidelines ###
+### Contents ###
 
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+* NodeSocket code (Flask+gRPC)
+* Updater scripts
+* API guideline
+* TG bots: install and managing
+* Test scripts
